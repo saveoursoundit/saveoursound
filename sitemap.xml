@@ -7,13 +7,6 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-    <loc>http://www.saveoursound.it/</loc>
-    <lastmod>2024-12-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-</url>
-
-<url>
     <loc>https://linktr.ee/save.our.sound/</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,5 +17,10 @@
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
 </url>
-
+<url>
+    <loc>http://www.saveoursound.it/</loc>
+    <lastmod>2024-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+</url>
 </urlset>
