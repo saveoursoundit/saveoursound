@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://saveoursoundit.github.io/saveoursound/sitemap.xml
+Sitemap: https://www.saveoursound.it/sitemap.xml
